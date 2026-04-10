@@ -104,12 +104,11 @@ Data Analyst | Machine Learning | Python
 💼 https://www.upwork.com/freelancers/~01ceaa1e3fdb11422a
 🌍 Accra, Ghana
 
-*Specialising in data-driven business solutions 
-for African markets*
+*Specialising in data-driven business solutions*
 
 ---
 
 ## 📬 Contact
 Interested in similar analysis for your business?
 - 📧 Email: shiratetteh@gmail.com
-- 💼 Upwork: [your profile link]
+- 💼 https://www.upwork.com/freelancers/~01ceaa1e3fdb11422a
