@@ -9,7 +9,7 @@ Machine learning model to predict customer churn using Logistic Regression, Deci
 This project analyses telecom customer data to predict 
 which customers are likely to cancel their subscription.
 Early identification of at-risk customers enables 
-proactive retention strategies — saving significant 
+proactive retention strategies, saving significant 
 revenue for the business.
 
 ---
